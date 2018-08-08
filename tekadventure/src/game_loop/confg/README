@@ -1,0 +1,4 @@
+USAGE:
+	./tekadventure		[LAUNCH THE GAME (enjoy!)]
+	./tekadventure --help	[SHOW HELP]
+	./tekadventure --lore	[SHOW GAME LORE]
